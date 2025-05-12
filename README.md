@@ -32,15 +32,35 @@ Renders the graph either as a static image (Matplotlib) or interactive network (
 Built with the Django framework, offering a user-friendly interface to interact with all features including file uploads, text input, and graph viewing.
 
 # How It Works
-1. Upload a PDF, enter a URL, or type content directly
-2. The backend extracts and cleans the content
-3. Named Entities and Relations are extracted using spaCy
-4. A graph is created based on entity co-occurrences or dependencies
-5. The graph is rendered and displayed along with an explanation
+1. Input Phase
+The user uploads a PDF file, submits a web URL, or types/pastes text into a form.
+
+2. Text Extraction & Preprocessing
+The system reads and cleans the content using appropriate methods (pdfplumber for PDFs, BeautifulSoup for URLs, plain text handling for direct input).
+The text is tokenized and lemmatized to remove noise and unify word forms.
+
+3. Information Extraction (NLP)
+spaCy is used to identify Named Entities (like people, locations, concepts) and determine grammatical dependencies between words.
+Co-occurrence patterns and syntactic roles are used to infer relationships.
+
+4. Graph Generation
+Using NetworkX, the extracted entities become nodes, and the detected relationships become edges.
+Edge weights may be assigned based on frequency or contextual strength.
+
+5. Graph Visualization & Explanation
+A graph is rendered on the webpage using Matplotlib or Pyvis.
+A textual summary accompanies the graph to explain its structure and key concepts.
 
 #  Use Cases
 1. Educational Concept Mapping
+Automatically break down textbook chapters or lecture notes into visual knowledge maps to enhance student understanding.
+
 2. Research Paper Visualization
+Visualize key ideas and relationships in academic papers for faster comprehension and literature reviews.
+
 3. Document Summarization
-4. Content Understanding and Exploration
+Highlight the most important concepts in long documents and their interconnections in a condensed visual form.
+
+4. Content Understanding & Exploration
+Explore dense or unfamiliar content visually to uncover hidden relationships and gain insights into the subject matter.
 
