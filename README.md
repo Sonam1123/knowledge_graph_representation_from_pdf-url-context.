@@ -17,3 +17,9 @@ This project automatically extracts meaningful concepts from input content (PDF 
 4. A graph is created based on entity co-occurrences or dependencies
 5. The graph is rendered and displayed along with an explanation
 
+#  Use Cases
+1. Educational Concept Mapping
+2. Research Paper Visualization
+3. Document Summarization
+4. Content Understanding and Exploration
+
