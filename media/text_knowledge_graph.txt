@@ -1,0 +1,51 @@
+'Kashmir' is related to 'conflict'.
+'Kashmir' is related to 'dispute'.
+'conflict' is related to 'territorial'.
+'conflict' is related to 'India'.
+'conflict' is related to 'partition'.
+'territorial' is related to 'conflict'.
+'India' is related to 'Pakistan'.
+'India' is related to 'northeastern'.
+'India' is related to 'India'.
+'India' is related to 'land'.
+'Pakistan' is related to 'China'.
+'Pakistan' is related to 'entirety'.
+'Pakistan' is related to 'several'.
+'Pakistan' is related to 'land'.
+'China' is related to 'India'.
+'China' is related to 'land'.
+'northeastern' is related to 'portion'.
+'portion' is related to 'region.[1][2'.
+'region.[1][2' is related to 'conflict'.
+'partition' is related to 'India'.
+'entirety' is related to 'former'.
+'former' is related to 'state'.
+'state' is related to 'Jammu'.
+'Jammu' is related to 'Kashmir'.
+'Jammu' is related to 'most'.
+'dispute' is related to 'region'.
+'region' is related to 'wars'.
+'region' is related to 'Jammu'.
+'region' is related to 'uninhabited'.
+'wars' is related to 'India'.
+'several' is related to 'other'.
+'other' is related to 'armed'.
+'armed' is related to 'skirmishes'.
+'skirmishes' is related to 'India'.
+'land' is related to 'area'.
+'area' is related to 'region'.
+'area' is related to 'Azad Kashmir'.
+'area' is related to 'Aksai Chin'.
+'most' is related to 'Ladakh'.
+'Ladakh' is related to 'Siachen'.
+'Siachen' is related to 'Glacier,[3][4'.
+'Glacier,[3][4' is related to 'population'.
+'population' is related to 'Pakistan'.
+'Azad Kashmir' is related to 'Gilgit'.
+'Gilgit' is related to 'Baltistan'.
+'Baltistan' is related to 'China'.
+'Aksai Chin' is related to 'region'.
+'uninhabited' is related to 'Trans-Karakoram Tract'.
+'Trans-Karakoram Tract' is related to 'part'.
+'part' is related to 'Demchok'.
+'Demchok' is related to 'sector'.

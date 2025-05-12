@@ -1,0 +1,76 @@
+'CBSE' is related to 'Syllabus'.
+'Syllabus' is related to 'chapter'.
+'chapter' is related to 'NCERT Class 6 Science'.
+'NCERT Class 6 Science' is related to 'textbook'.
+'textbook' is related to 'Food Variety'.
+'Food Variety' is related to 'Food'.
+'Food Variety' is related to 'below'.
+'Food Variety' is related to 'links'.
+'Food' is related to 'component'.
+'Food' is related to 'Sources'.
+'component' is related to 'nourishment'.
+'nourishment' is related to 'body'.
+'body' is related to 'food'.
+'food' is related to 'E.g.'.
+'food' is related to 'item'.
+'food' is related to 'items'.
+'E.g.' is related to 'Rice'.
+'E.g.' is related to 'Chicken'.
+'E.g.' is related to 'rice'.
+'Rice' is related to 'chapati'.
+'chapati' is related to 'curry'.
+'curry' is related to 'fruits'.
+'curry' is related to 'chicken'.
+'fruits' is related to 'vegetables'.
+'vegetables' is related to 'cheese'.
+'vegetables' is related to 'spices'.
+'cheese' is related to 'bread'.
+'bread' is related to 'milk'.
+'milk' is related to 'curd'.
+'curd' is related to 'butter'.
+'butter' is related to 'Ingredients'.
+'Ingredients' is related to 'components'.
+'components' is related to 'materials'.
+'materials' is related to 'food'.
+'item' is related to 'ingredients'.
+'item' is related to 'plants'.
+'ingredients' is related to 'example'.
+'ingredients' is related to 'sambar'.
+'ingredients' is related to 'E.g.'.
+'ingredients' is related to 'food'.
+'example' is related to 'different'.
+'different' is related to 'types'.
+'different' is related to 'food'.
+'types' is related to 'vegetables'.
+'spices' is related to 'ingredients'.
+'spices' is related to 'oil'.
+'sambar' is related to 'more'.
+'more' is related to 'information'.
+'more' is related to 'Food Variety'.
+'information' is related to 'Food Variety'.
+'below' is related to 'video'.
+'video' is related to 'more'.
+'links' is related to 'Food Materials and Sources
+
+Food Items'.
+'Food Materials and Sources
+
+Food Items' is related to 'different'.
+'items' is related to 'food'.
+'items' is related to 'ingredients'.
+'Chicken' is related to 'curry'.
+'chicken' is related to 'spices'.
+'oil' is related to 'ghee'.
+'ghee' is related to 'water'.
+'water' is related to 'Food'.
+'Sources' is related to 'ingredients'.
+'plants' is related to 'animals'.
+'plants' is related to 'Chicken'.
+'animals' is related to 'plant'.
+'plant' is related to 'products'.
+'products' is related to 'animal'.
+'products' is related to 'E.g.'.
+'animal' is related to 'products'.
+'rice' is related to 'grains'.
+'rice' is related to 'plants'.
+'grains' is related to 'rice'.

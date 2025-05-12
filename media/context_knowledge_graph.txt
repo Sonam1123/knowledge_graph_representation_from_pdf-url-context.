@@ -1,0 +1,18 @@
+'Chopra' is related to 'track'.
+'track' is related to 'field'.
+'field' is related to 'athlete'.
+'athlete' is related to 'gold'.
+'gold' is related to 'Indian'.
+'gold' is related to 'medal'.
+'Indian' is related to 'marksman'.
+'marksman' is related to 'Abhinav Bindra'.
+'Abhinav Bindra' is related to 'Olympic'.
+'Olympic' is related to 'gold'.
+'medal' is related to 'world'.
+'world' is related to 'champion'.
+'champion' is related to 'men'.
+'men' is related to 'javelin'.
+'javelin' is related to 'throw'.
+'throw' is related to 'event'.
+'event' is related to 'World Athletics Championship'.
+'World Athletics Championship' is related to 'Budapest'.

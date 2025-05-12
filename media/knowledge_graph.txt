@@ -1,0 +1,21 @@
+'Virat Kohli' is related to 'cricketer'.
+'cricketer' is related to 'batsmen'.
+'batsmen' is related to 'world'.
+'world' is related to 'playing'.
+'playing' is related to 'style'.
+'style' is related to 'consistency'.
+'consistency' is related to 'records'.
+'records' is related to 'formats'.
+'formats' is related to 'game'.
+'game' is related to 'Kohli'.
+'Kohli' is related to 'team'.
+'Kohli' is related to 'philanthropist'.
+'team' is related to 'victories'.
+'victories' is related to 'awards'.
+'awards' is related to 'Garfield Sobers Trophy'.
+'Garfield Sobers Trophy' is related to 'ICC Cricketer'.
+'ICC Cricketer' is related to 'Year'.
+'Year' is related to 'field'.
+'field' is related to 'Kohli'.
+'philanthropist' is related to 'sports'.
+'sports' is related to 'figures'.

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>URL Knowledge Graph Result</title>
+</head>
+<body>
+    <h2>Source URL:</h2>
+    <p>{{ url }}</p>
+
+    <h2>Extracted Text:</h2>
+    <pre style="white-space: pre-wrap;">{{ content }}</pre>
+
+    <h2>Knowledge Graph</h2>
+    <img src="{{ graph_url }}" alt="Knowledge Graph" style="max-width:100%; height:auto;">
+
+    <h2>Graph Explanation</h2>
+    <pre style="white-space: pre-wrap; font-size: 16px;">{{ explanation }}</pre>
+</body>
+</html>
