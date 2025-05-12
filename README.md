@@ -62,5 +62,6 @@ Visualize key ideas and relationships in academic papers for faster comprehensio
 Highlight the most important concepts in long documents and their interconnections in a condensed visual form.
 
 4. Content Understanding & Exploration
-Explore dense or unfamiliar content visually to uncover hidden relationships and gain insights into the subject matter.
+Explore dense or unfamiliar content visually to uncover hidden relationships and gain insights into the subject matter.  
+
 
