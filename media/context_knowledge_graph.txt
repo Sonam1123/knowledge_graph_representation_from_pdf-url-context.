@@ -1,18 +1,56 @@
-'Chopra' is related to 'track'.
-'track' is related to 'field'.
-'field' is related to 'athlete'.
-'athlete' is related to 'gold'.
-'gold' is related to 'Indian'.
-'gold' is related to 'medal'.
-'Indian' is related to 'marksman'.
-'marksman' is related to 'Abhinav Bindra'.
-'Abhinav Bindra' is related to 'Olympic'.
-'Olympic' is related to 'gold'.
-'medal' is related to 'world'.
-'world' is related to 'champion'.
-'champion' is related to 'men'.
-'men' is related to 'javelin'.
-'javelin' is related to 'throw'.
-'throw' is related to 'event'.
-'event' is related to 'World Athletics Championship'.
-'World Athletics Championship' is related to 'Budapest'.
+'story' is related to 'information'.
+'information' is related to 'air'.
+'air' is related to 'Rajasthan'.
+'Rajasthan' is related to 'winter'.
+'winter' is related to 'promise'.
+'promise' is related to 'December 5th, 2002'.
+'December 5th, 2002' is related to 'heart'.
+'heart' is related to 'land'.
+'land' is related to 'valor'.
+'valor' is related to 'tradition'.
+'tradition' is related to 'life'.
+'life' is related to 'Sonam Singh'.
+'Sonam Singh' is related to 'world'.
+'world' is related to 'Rajput'.
+'Rajput' is related to 'family'.
+'family' is related to 'echoes'.
+'echoes' is related to 'history'.
+'history' is related to 'heritage'.
+'heritage' is related to 'hum'.
+'hum' is related to 'background'.
+'background' is related to 'child'.
+'child' is related to 'curiosity'.
+'curiosity' is related to 'Sonam'.
+'Sonam' is related to 'others'.
+'Sonam' is related to 'path'.
+'others' is related to 'books'.
+'books' is related to 'mind'.
+'mind' is related to 'worlds'.
+'worlds' is related to 'pages'.
+'pages' is related to 'love'.
+'love' is related to 'time'.
+'time' is related to 'journey'.
+'journey' is related to 'turn'.
+'turn' is related to 'B.Tech'.
+'B.Tech' is related to 'Footwear'.
+'Footwear' is related to 'Technology'.
+'Technology' is related to 'design'.
+'design' is related to 'aspects'.
+'aspects' is related to 'field'.
+'field' is related to 'calling'.
+'calling' is related to 'desire'.
+'desire' is related to 'logic'.
+'logic' is related to 'possibilities'.
+'possibilities' is related to 'Computer Science'.
+'Computer Science' is related to 'spirit'.
+'Computer Science' is related to 'shift'.
+'spirit' is related to 'Sonam'.
+'path' is related to 'M.Tech'.
+'M.Tech' is related to 'Computer Science'.
+'shift' is related to 'disciplines'.
+'disciplines' is related to 'elegance'.
+'elegance' is related to 'algorithms'.
+'algorithms' is related to 'power'.
+'power' is related to 'programming'.
+'programming' is related to 'landscape'.
+'landscape' is related to 'technology'.

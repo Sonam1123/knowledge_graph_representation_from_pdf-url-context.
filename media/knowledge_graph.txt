@@ -1,21 +1,75 @@
-'Virat Kohli' is related to 'cricketer'.
-'cricketer' is related to 'batsmen'.
-'batsmen' is related to 'world'.
-'world' is related to 'playing'.
-'playing' is related to 'style'.
-'style' is related to 'consistency'.
-'consistency' is related to 'records'.
-'records' is related to 'formats'.
-'formats' is related to 'game'.
-'game' is related to 'Kohli'.
-'Kohli' is related to 'team'.
-'Kohli' is related to 'philanthropist'.
-'team' is related to 'victories'.
-'victories' is related to 'awards'.
-'awards' is related to 'Garfield Sobers Trophy'.
-'Garfield Sobers Trophy' is related to 'ICC Cricketer'.
-'ICC Cricketer' is related to 'Year'.
-'Year' is related to 'field'.
-'field' is related to 'Kohli'.
-'philanthropist' is related to 'sports'.
-'sports' is related to 'figures'.
+'discussions' is related to 'stats'.
+'stats' is related to 'author'.
+'author' is related to 'profiles'.
+'author' is related to 'Akansha Mer
+Banasthali University'.
+'profiles' is related to 'publication'.
+'publication' is related to 'https://www.researchgate.net/publication/374117972'.
+'https://www.researchgate.net/publication/374117972' is related to 'Artificial Intelligence in Human Resource Management'.
+'Artificial Intelligence in Human Resource Management' is related to 'Recent Trends'.
+'Recent Trends' is related to 'Research Agenda'.
+'Research Agenda' is related to 'Chapter'.
+'Chapter' is related to 'September 2023'.
+'September 2023' is related to 'DOI'.
+'DOI' is related to 'S1569'.
+'S1569' is related to '37592023000111B003'.
+'37592023000111B003' is related to 'CITATIONS'.
+'CITATIONS' is related to 'READS'.
+'CITATIONS' is related to 'SEE PROFILE'.
+'READS' is related to 'author'.
+'Akansha Mer
+Banasthali University' is related to 'PUBLICATIONS'.
+'PUBLICATIONS' is related to 'CITATIONS'.
+'SEE PROFILE' is related to 'content'.
+'content' is related to 'page'.
+'page' is related to 'Akansha Mer'.
+'Akansha Mer' is related to 'user'.
+'user' is related to 'enhancement'.
+'enhancement' is related to 'file'.
+'file' is related to 'Chapter 3'.
+'Chapter 3' is related to 'intelligenCe'.
+'intelligenCe' is related to 'resourCe'.
+'resourCe' is related to 'management'.
+'management' is related to 'trends'.
+'management' is related to 'cost'.
+'management' is related to 'HRM'.
+'trends' is related to 'agenda'.
+'trends' is related to 'resource'.
+'agenda' is related to 'akansha mer'.
+'akansha mer' is related to 'Department'.
+'Department' is related to 'Commerce'.
+'Commerce' is related to 'Management'.
+'Management' is related to 'Banasthali Vidyapith'.
+'Banasthali Vidyapith' is related to 'Tonk'.
+'Tonk' is related to 'Rajasthan'.
+'Rajasthan' is related to 'India'.
+'India' is related to 'AbstrAct'.
+'AbstrAct' is related to 'COVID-19'.
+'COVID-19' is related to 'pandemic'.
+'pandemic' is related to 'challenges'.
+'challenges' is related to 'employees'.
+'employees' is related to 'employee'.
+'employee' is related to 'turnover'.
+'turnover' is related to 'disengagement'.
+'disengagement' is related to 'work'.
+'work' is related to 'health'.
+'health' is related to 'issues'.
+'issues' is related to 'study'.
+'study' is related to 'intelligence'.
+'study' is related to 'role'.
+'intelligence' is related to 'herald'.
+'herald' is related to 'promise'.
+'promise' is related to 'resource'.
+'resource' is related to 'management'.
+'cost' is related to 'attrition'.
+'attrition' is related to 'level'.
+'level' is related to 'productivity'.
+'productivity' is related to 'dearth'.
+'dearth' is related to 'studies'.
+'studies' is related to 'trends'.
+'HRM' is related to 'context'.
+'context' is related to 'study'.
+'role' is related to 'onboarding'.
+'onboarding' is related to 'diversity'.
+'diversity' is related to 'inclusion'.
+'inclusion' is related to 'D&I'.

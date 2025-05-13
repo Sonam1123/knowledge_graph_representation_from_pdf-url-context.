@@ -1,76 +1,73 @@
-'CBSE' is related to 'Syllabus'.
-'Syllabus' is related to 'chapter'.
-'chapter' is related to 'NCERT Class 6 Science'.
-'NCERT Class 6 Science' is related to 'textbook'.
-'textbook' is related to 'Food Variety'.
-'Food Variety' is related to 'Food'.
-'Food Variety' is related to 'below'.
-'Food Variety' is related to 'links'.
-'Food' is related to 'component'.
-'Food' is related to 'Sources'.
-'component' is related to 'nourishment'.
-'nourishment' is related to 'body'.
-'body' is related to 'food'.
-'food' is related to 'E.g.'.
-'food' is related to 'item'.
-'food' is related to 'items'.
-'E.g.' is related to 'Rice'.
-'E.g.' is related to 'Chicken'.
-'E.g.' is related to 'rice'.
-'Rice' is related to 'chapati'.
-'chapati' is related to 'curry'.
-'curry' is related to 'fruits'.
-'curry' is related to 'chicken'.
-'fruits' is related to 'vegetables'.
-'vegetables' is related to 'cheese'.
-'vegetables' is related to 'spices'.
-'cheese' is related to 'bread'.
-'bread' is related to 'milk'.
-'milk' is related to 'curd'.
-'curd' is related to 'butter'.
-'butter' is related to 'Ingredients'.
-'Ingredients' is related to 'components'.
-'components' is related to 'materials'.
-'materials' is related to 'food'.
-'item' is related to 'ingredients'.
-'item' is related to 'plants'.
-'ingredients' is related to 'example'.
-'ingredients' is related to 'sambar'.
-'ingredients' is related to 'E.g.'.
-'ingredients' is related to 'food'.
-'example' is related to 'different'.
-'different' is related to 'types'.
-'different' is related to 'food'.
-'types' is related to 'vegetables'.
-'spices' is related to 'ingredients'.
-'spices' is related to 'oil'.
-'sambar' is related to 'more'.
-'more' is related to 'information'.
-'more' is related to 'Food Variety'.
-'information' is related to 'Food Variety'.
-'below' is related to 'video'.
-'video' is related to 'more'.
-'links' is related to 'Food Materials and Sources
+'Table' is related to 'Contents'.
+'Contents' is related to 'Asexual Reproduction Definition'.
+'Asexual Reproduction Definition' is related to 'reproduction'.
+'reproduction' is related to 'mode'.
+'reproduction' is related to 'production'.
+'reproduction' is related to 'offspring'.
+'reproduction' is related to 'organisms'.
+'reproduction' is related to 'parent'.
+'reproduction' is related to 'time'.
+'reproduction' is related to 'Binary Fission'.
+'mode' is related to 'reproduction'.
+'production' is related to 'offspring'.
+'offspring' is related to 'parent'.
+'offspring' is related to 'Types'.
+'parent' is related to 'Asexual Reproduction'.
+'parent' is related to 'individuals'.
+'parent' is related to 'cases'.
+'parent' is related to 'fertilization'.
+'parent' is related to 'cell'.
+'Asexual Reproduction' is related to 'reproduction'.
+'Asexual Reproduction' is related to 'features'.
+'Asexual Reproduction' is related to 'types'.
+'individuals' is related to 'clones'.
+'clones' is related to 'parents'.
+'parents' is related to 'reproduction'.
+'organisms' is related to 'process'.
+'organisms' is related to 'offspring'.
+'organisms' is related to 'others'.
+'process' is related to 'kind'.
+'process' is related to 'reproduction'.
+'kind' is related to 'fusion'.
+'fusion' is related to 'change'.
+'change' is related to 'number'.
+'number' is related to 'chromosomes'.
+'chromosomes' is related to 'genes'.
+'genes' is related to 'parent'.
+'cases' is related to 'chance'.
+'chance' is related to 'mutation'.
+'mutation' is related to 'Read'.
+'Read' is related to 'Reproduction
 
-Food Items'.
-'Food Materials and Sources
+Characteristics'.
+'Reproduction
 
-Food Items' is related to 'different'.
-'items' is related to 'food'.
-'items' is related to 'ingredients'.
-'Chicken' is related to 'curry'.
-'chicken' is related to 'spices'.
-'oil' is related to 'ghee'.
-'ghee' is related to 'water'.
-'water' is related to 'Food'.
-'Sources' is related to 'ingredients'.
-'plants' is related to 'animals'.
-'plants' is related to 'Chicken'.
-'animals' is related to 'plant'.
-'plant' is related to 'products'.
-'products' is related to 'animal'.
-'products' is related to 'E.g.'.
-'animal' is related to 'products'.
-'rice' is related to 'grains'.
-'rice' is related to 'plants'.
-'grains' is related to 'rice'.
+Characteristics' is related to 'Asexual Reproduction'.
+'features' is related to 'reproduction'.
+'fertilization' is related to 'formation'.
+'formation' is related to 'place'.
+'place' is related to 'process'.
+'time' is related to 'organisms'.
+'Types' is related to 'Asexual Reproduction'.
+'types' is related to 'reproduction'.
+'Binary Fission' is related to 'Budding'.
+'Binary Fission' is related to 'term'.
+'Budding' is related to 'Fragmentation'.
+'Fragmentation' is related to 'Vegetative Propagation'.
+'Vegetative Propagation' is related to 'Sporogenesis'.
+'Sporogenesis' is related to 'Binary Fission'.
+'term' is related to 'fission'.
+'fission' is related to 'fission'.
+'fission' is related to 'parent'.
+'fission' is related to 'methods'.
+'cell' is related to 'cells'.
+'cell' is related to 'division'.
+'cell' is related to 'daughter'.
+'cells' is related to 'cell'.
+'division' is related to 'patterns'.
+'patterns' is related to 'organisms'.
+'others' is related to 'Amoeba'.
+'Amoeba' is related to 'euglena'.
+'euglena' is related to 'fission'.
+'methods' is related to 'reproduction'.
+'daughter' is related to 'cell'.
